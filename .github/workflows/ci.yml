@@ -1,1 +1,2 @@
-
+name: Data Pipeline CI
+on: [push, pull_request]
